@@ -2,7 +2,7 @@
 
 A modern landing page for a home-based cheesecake bakery with integrated order management system. Built as a freelance project with dual notification channels (Telegram + Email).
 
-**Live Site:** [beanysbakery.netlify.app](https://beanysbakery.netlify.app)
+**Live Site:** [beanysbakery](https://bbakery-cheesecakes.netlify.app/)
 
 ## 📝 Note
 
